@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @mkahkeshani
-- 👀 I’m interested in mobile app development
-- 👨🏻‍💻 I’m a flutter Developer...
+- 👀 I’m interested in python and AI
+- 👨🏻‍💻 I’m a python | AI Teacher
 - 📫 How to reach me ...
 - 📧 mohammadkahkeshani@gmail.com
-- 🌐 flutterpersian.com
 - 📱 +989397940075
 - 🏠 Shiraz, Iran
 
