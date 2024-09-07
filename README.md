@@ -3,7 +3,7 @@
 - 👨🏻‍💻 I’m a python | AI Teacher
 - 📫 How to reach me ...
 - 📧 mohammadkahkeshani@gmail.com
-- 📱 +989397940075
+- 📱 No Response to Paging
 - 🏠 Shiraz, Iran
 
 
