@@ -3,6 +3,9 @@
 - 👨🏻‍💻 I’m a python | AI Teacher
 - 📫 How to reach me ...
 - 📧 mohammadkahkeshani@gmail.com
+- youtube: https://www.youtube.com/@mohammadkahkeshani
+- instagram: kahkeshani_mohammad
+- linkedin: https://www.linkedin.com/in/mohammad-kahkeshani-01011867/
 - 📱 No Response to Paging
 - 🏠 Shiraz, Iran
 
