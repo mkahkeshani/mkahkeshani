@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mkahkeshani
 - 👀 I’m interested in python and AI
-- 👨🏻‍💻 I’m a python | AI Teacher
+- 👨🏻‍💻 I’m a python | AI | Computer Vision Teacher
 - 📫 How to reach me ...
 - 📧 mohammadkahkeshani@gmail.com
 - youtube: https://www.youtube.com/@mohammadkahkeshani
