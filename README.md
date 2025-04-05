@@ -3,7 +3,7 @@
 - 👨🏻‍💻 I’m a python | AI | Computer Vision Teacher
 - 📫 How to reach me ...
 - 📧 mohammadkahkeshani@gmail.com
-- youtube: https://www.youtube.com/@mohammadkahkeshani
+- youtube: www.youtube.com/@codevision_academy
 - linkedin: https://www.linkedin.com/in/mohammad-kahkeshani-01011867/
 - instagram: kahkeshani_mohammad
 - 📱 No Response to Paging
